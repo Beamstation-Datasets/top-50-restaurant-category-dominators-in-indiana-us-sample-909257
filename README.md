@@ -1,2 +1,41 @@
-# top-50-restaurant-category-dominators-in-indiana-us-sample-909257
-Free BeamStation sample for Top 50 Restaurant Category Dominators in Indiana, US (40 records in the full dataset)
+# Top 50 Restaurant Category Dominators in Indiana, US
+
+> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+
+## Snapshot
+
+| Field | Value |
+|---|---|
+| Dataset ID | `909257` |
+| Location | Indiana |
+| Category | Restaurants |
+| Full dataset size | 40 records |
+| Free sample size | 5 records (12.5%) |
+| Last export | 2026-04-01T00:12:16.440376+00:00 |
+| Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-indiana-us-sample-909257/releases/download/sample-latest/beamstation_909257_restaurants-us-in_SAMPLE_DIST.csv) |
+
+## What is in this sample
+
+This sample is generated directly from the BeamStation export pipeline and combines the `complete` and `insights` export profiles into one evaluation CSV.
+
+Included signals:
+- business profile and location fields
+- ratings, review counts, and review activity
+- Beam Score and competitive metrics
+- sentiment and percentile features
+- social profile signals
+- masked email and masked phone fields
+
+## Get the full dataset
+
+The full commercial dataset is available in the BeamStation catalog:
+
+[https://beamstation.com/datasets](https://beamstation.com/datasets)
+
+Search for dataset ID `909257` on BeamStation if you want the exact commercial listing.
+
+## Notes
+
+- This repository only contains a free sample.
+- Contact data that drives the commercial value is partially masked.
+- The source sample file is mirrored from BeamStation B2 storage and refreshed from CentralDB exports.
