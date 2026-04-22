@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Indiana, US",
-  "export_job_id": "d4353d9e-de2e-49e4-bb69-9d87acbe3d87",
+  "export_job_id": "46d1dc9c-287f-493b-a98a-be928631b432",
   "github_org": "Beamstation-Datasets",
   "id_short": 909257,
   "location_name": "Indiana",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-indiana-us-sample-909257",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/909257/beamstation_909257_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 8.47,
   "sample_records": 5,
-  "sample_sha256": "abbede14f13bd68df8278b30faa20b0ff5b8c7b0f58f6d32570bff8990ed35e5",
-  "sample_size_bytes": 38613,
-  "total_records": 50,
-  "updated_at": "2026-04-15T01:55:58.406363+00:00"
+  "sample_sha256": "d4f8fb7ded9b79b6b92366a18e97f4363194754735de745ec1802d2577ac23f0",
+  "sample_size_bytes": 38157,
+  "total_records": 59,
+  "updated_at": "2026-04-22T06:43:03.477044+00:00"
 }
