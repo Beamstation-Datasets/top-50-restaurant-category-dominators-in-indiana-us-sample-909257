@@ -9,9 +9,9 @@
 | Dataset ID | `909257` |
 | Location | Indiana |
 | Category | Restaurants |
-| Full dataset size | 50 records |
-| Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-15T01:55:58.406363+00:00 |
+| Full dataset size | 59 records |
+| Free sample size | 5 records (8.47%) |
+| Last export | 2026-04-22T06:43:03.477044+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-indiana-us-sample-909257/releases/download/sample-latest/beamstation_909257_restaurants-us-in_SAMPLE_DIST.csv) |
 
 ## What is in this sample
