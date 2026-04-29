@@ -1,12 +1,12 @@
 {
-  "export_job_id": "46d1dc9c-287f-493b-a98a-be928631b432",
+  "export_job_id": "f18a8406-c6fc-43c7-96b6-62d3250690e4",
   "id_short": 909257,
-  "published_at": "2026-04-22T19:07:32Z",
+  "published_at": "2026-04-29T19:14:29Z",
   "repo_name": "top-50-restaurant-category-dominators-in-indiana-us-sample-909257",
   "sample_asset_name": "beamstation_909257_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/909257/beamstation_909257_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_records": 5,
-  "sample_sha256": "d4f8fb7ded9b79b6b92366a18e97f4363194754735de745ec1802d2577ac23f0",
-  "sample_size_bytes": 38157,
-  "total_records": 59
+  "sample_sha256": "27449c1f8117cceaae574598f6166a759f93bdafe29516713da573ed88d63fef",
+  "sample_size_bytes": 36359,
+  "total_records": 56
 }
